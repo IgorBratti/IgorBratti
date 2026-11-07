@@ -31,7 +31,6 @@
 
 ### Projects
 
-Uncomment this section when the first SFMC repositories are published.
 
 | Project | What it shows |
 |---|---|
