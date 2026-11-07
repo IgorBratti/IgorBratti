@@ -28,7 +28,7 @@
 | Code & data | SQL, AMPscript, SSJS (WSProxy), HTML, CSS, JavaScript, REST and SOAP APIs, Python |
 | Analytics | Intelligence Reports, Power BI, GA4, Databricks |
 
-<!--
+
 ### Projects
 
 Uncomment this section when the first SFMC repositories are published.
@@ -39,8 +39,8 @@ Uncomment this section when the first SFMC repositories are published.
 | [sfmc-preference-center](https://github.com/IgorBratti/sfmc-preference-center) | Consent-aware preference center built with AMPscript and SSJS |
 | [sfmc-sql-data-views](https://github.com/IgorBratti/sfmc-sql-data-views) | SQL library for Data Views: engagement, inactive contacts, deduplication |
 | [sfmc-amp-emails](https://github.com/IgorBratti/sfmc-amp-emails) | Interactive AMP email templates |
--->
+
 
 ### Languages
 
-Portuguese (native) · English (advanced) 
+Portuguese (native) · English (advanced)
