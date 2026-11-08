@@ -16,7 +16,6 @@
 
 ### Certifications
 
-- Salesforce Certified Marketing Cloud Engagement Developer
 - Salesforce Certified Marketing Cloud Engagement Administrator
 - Salesforce Certified Marketing Cloud Engagement Specialist (formerly Email Specialist)
 
