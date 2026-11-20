@@ -42,4 +42,4 @@
 
 ### Languages
 
-Portuguese (native) · English (advanced) · lived, studied and worked in Sydney, Australia
+Portuguese (native) · English (advanced) 
