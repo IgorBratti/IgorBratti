@@ -18,7 +18,8 @@
 
 - Salesforce Certified Marketing Cloud Engagement Administrator
 - Salesforce Certified Marketing Cloud Engagement Specialist (formerly Email Specialist)
-
+- Salesforce Certified Marketing Cloud Engagement Developer
+  
 ### Tech stack
 
 | Area | Tools |
