@@ -16,10 +16,10 @@
 
 ### Certifications
 
+- Salesforce Certified Marketing Cloud Engagement Developer
 - Salesforce Certified Marketing Cloud Engagement Administrator
 - Salesforce Certified Marketing Cloud Engagement Specialist (formerly Email Specialist)
-- Salesforce Certified Marketing Cloud Engagement Developer
-  
+
 ### Tech stack
 
 | Area | Tools |
@@ -28,18 +28,18 @@
 | Code & data | SQL, AMPscript, SSJS (WSProxy), HTML, CSS, JavaScript, REST and SOAP APIs, Python |
 | Analytics | Intelligence Reports, Power BI, GA4, Databricks |
 
-
 ### Projects
 
+**[Salesforce Marketing Cloud Handbook](https://github.com/IgorBratti/sfmc-handbook)**: CloudPages, emails, AMPscript, SSJS, SQL and playbooks, each with a technical sheet. [See the live previews](https://igorbratti.github.io/sfmc-handbook/).
 
-| Project | What it shows |
+| Section | Highlights |
 |---|---|
-| [sfmc-journey-monitor](https://github.com/IgorBratti/sfmc-journey-monitor) | CloudPage dashboard (SSJS + WSProxy) tracking journey versions, entries, sends and errors |
-| [sfmc-preference-center](https://github.com/IgorBratti/sfmc-preference-center) | Consent-aware preference center built with AMPscript and SSJS |
-| [sfmc-sql-data-views](https://github.com/IgorBratti/sfmc-sql-data-views) | SQL library for Data Views: engagement, inactive contacts, deduplication |
-| [sfmc-amp-emails](https://github.com/IgorBratti/sfmc-amp-emails) | Interactive AMP email templates |
-
+| [CloudPages](https://github.com/IgorBratti/sfmc-handbook/tree/main/cloudpages) | Lead capture form, preference center with `LogUnsubEvent`, birthday page with unique coupons |
+| [Emails](https://github.com/IgorBratti/sfmc-handbook/tree/main/emails) | Responsive, Outlook-safe template and reusable blocks |
+| [AMPscript](https://github.com/IgorBratti/sfmc-handbook/tree/main/ampscript) | Recipes for personalization, dates, lookups, links and formatting |
+| [SQL](https://github.com/IgorBratti/sfmc-handbook/tree/main/sql) | Email KPIs, journey performance, inactive contacts, engagement segments |
+| [Playbooks](https://github.com/IgorBratti/sfmc-handbook/tree/main/playbooks) | Contact cleanup, step by step |
 
 ### Languages
 
-Portuguese (native) · English (advanced)
+Portuguese (native) · English (advanced) · lived, studied and worked in Sydney, Australia
